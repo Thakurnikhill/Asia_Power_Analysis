@@ -1,7 +1,7 @@
 # Asia_Power_Analysis
 # Dynamic Ranking System for National Power Analysis
 
-This repository contains the code for the project **"Dynamic Ranking System for National Power Analysis"** developed during the winter internship at the **Institute for Systems Studies & Analyses (ISSA), DRDO**. The project focuses on computing dynamic rankings of countries based on multiple weighted parameters that reflect a nation's power and potential.
+This repository contains the code for the project **"Dynamic Ranking System for National Power Analysis"** . The project focuses on computing dynamic rankings of countries based on multiple weighted parameters that reflect a nation's power and potential.
 
 🔗 GitHub Repository: [https://github.com/Thakurnikhill/Asia_Power_Analysis](https://github.com/Thakurnikhill/Asia_Power_Analysis)
 
